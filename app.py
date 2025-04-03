@@ -10,6 +10,7 @@ from nltk.probability import FreqDist
 from wordcloud import WordCloud
 from PIL import Image, ImageFilter
 import nltk
+nltk.download('punkt_tab')
 nltk.download('punkt')
 
 # Set the page configuration (Title and Favicon)
