@@ -6,5 +6,5 @@ seaborn
 nltk
 wordcloud
 pillow
-os
+
 plotly
